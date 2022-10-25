@@ -1,0 +1,14 @@
+pip install emoji
+
+# you can skip this step if you have pre-installed the emoji library 
+
+import emoji 
+print(emoji.emojize("I love mere humsafar show :red_heart:"))
+ 
+ # output = I love mere humsafar show ❤️
+ 
+ import emoji 
+print (emoji.emojize(":smiling_face:"))
+
+# output = ☺️
+#you can check out emoji library for more variables 
